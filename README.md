@@ -9,5 +9,15 @@ Montaje:
     <li>Microcontrolador ESP32</li>
     <li>Toma de tierra</li>
   </ul>
+  <p align="center">
+   <img src="assets/logicacontrol.JPG" alt="elementos que controlan el rosco" width="600">
+  </p>
+  <li>Esqueleto del rosco</li>
+  <p align="center">
+   <img src="assets/esqueleto.JPG" alt="esqueleto del rosco con las luces encendidas" width="600">
+  </p>
+  <li>Rosco funcional</li>
+  <p align="center">
+   <img src="assets/roscofuncionando.jpeg" alt="rosco funcional" width="600">
+  </p>
 </ol>
-![Lógica de control](assets/logicacontrol.jpg)
