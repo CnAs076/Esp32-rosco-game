@@ -18,6 +18,6 @@ Montaje:
   </p>
   <li>Rosco funcional</li>
   <p align="center">
-   <img src="assets/roscofuncionando.jpeg" alt="rosco funcional" width="600">
+   <img src="assets/roscofuncional.jpeg" alt="rosco funcional" width="600">
   </p>
 </ol>
